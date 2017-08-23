@@ -1,0 +1,5 @@
+basePackage\CreateDriverInstance.class
+pagesPackage\BMIPage.class
+assertionPackage\AssertionClass.class
+runnerPackage\Testrunner.class
+runnerPackage\BMIPageSteps.class

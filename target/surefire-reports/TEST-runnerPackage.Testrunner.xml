@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="32" failures="0" name="runnerPackage.Testrunner" time="0.059" errors="0" skipped="15">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Users\208357\workspace\BDDAutomation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Users\208357\workspace\BDDAutomation"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="D:\Users\208357\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\Users\208357\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7407502834336639810.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Application Virtualization Client;C:\Program Files\7-Zip;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Application Virtualization Client;C:\Program Files\7-Zip;D:\Users\208357\GIT_SW\cmd;D:\Users\208357\apache-maven-3.5.0\bin;;D:\Users\208357\Downloads\eclipse-jee-mars-2-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="D:\Users\208357"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="208357"/>
+    <property name="java.class.path" value="/D:/Users/208357/Downloads/eclipse-jee-mars-2-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Users\208357\workspace\BDDAutomation\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="Given user is on BMI page" time="0.002"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="When user enters 180 in centimeters" time="0.004"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="And user enters 66 in Kilos" time="0"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="And user clicks on Calculate button" time="0"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="Then BMI is displayed is BMI" time="0"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="Then Category is displayed in &quot;Normal&quot;" time="0"/>
+  <testcase classname="| 180 | 66 | &quot;Normal&quot; |" name="| 180 | 66 | &quot;Normal&quot; |" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="Given user is on BMI page" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="When user enters 160 in centimeters" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="And user enters 80 in Kilos" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="And user clicks on Calculate button" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="Then BMI is displayed is BMI" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="Then Category is displayed in &quot;Obesity&quot;" time="0"/>
+  <testcase classname="| 160 | 80 | &quot;Obesity&quot; |" name="| 160 | 80 | &quot;Obesity&quot; |" time="0.001"/>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="Given the cow weighs 450 kg" time="0.001">
+    <skipped/>
+    <system-out>
+  Scenario Outline: Testing of BMI page     &amp;#27;[90m# BMIPage.feature:14&amp;#27;[0m
+    &amp;#27;[32mGiven &amp;#27;[0m&amp;#27;[32muser is on BMI page&amp;#27;[0m               &amp;#27;[90m# BMIPageSteps.user_is_on_BMI_page()&amp;#27;[0m
+    &amp;#27;[32mWhen &amp;#27;[0m&amp;#27;[32muser enters &amp;#27;[0m&amp;#27;[32m&amp;#27;[1m160&amp;#27;[0m&amp;#27;[32m in centimeters&amp;#27;[0m     &amp;#27;[90m# BMIPageSteps.user_enters_in_centimeters(String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser enters &amp;#27;[0m&amp;#27;[32m&amp;#27;[1m80&amp;#27;[0m&amp;#27;[32m in Kilos&amp;#27;[0m             &amp;#27;[90m# BMIPageSteps.user_enters_in_Kilos(String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser clicks on Calculate button&amp;#27;[0m     &amp;#27;[90m# BMIPageSteps.user_clicks_on_Calculate_button()&amp;#27;[0m
+    &amp;#27;[32mThen &amp;#27;[0m&amp;#27;[32mBMI is displayed is BMI&amp;#27;[0m            &amp;#27;[90m# BMIPageSteps.BMI_is_displayed_is_BMI()&amp;#27;[0m
+    &amp;#27;[32mThen &amp;#27;[0m&amp;#27;[32mCategory is displayed in &quot;&amp;#27;[0m&amp;#27;[32m&amp;#27;[1mObesity&amp;#27;[0m&amp;#27;[32m&quot;&amp;#27;[0m &amp;#27;[90m# BMIPageSteps.Category_is_displayed_in(String)&amp;#27;[0m
+Feature: feeding a suckler cow
+
+  Scenario Outline: feeding a suckler cow      &amp;#27;[90m# sample.feature:3&amp;#27;[0m
+    &amp;#27;[36mGiven &amp;#27;[0m&amp;#27;[36mthe cow weighs &lt;weight&gt; kg&amp;#27;[0m
+    &amp;#27;[36mWhen &amp;#27;[0m&amp;#27;[36mwe calculate the feeding requirements&amp;#27;[0m
+    &amp;#27;[36mThen &amp;#27;[0m&amp;#27;[36mthe energy should be &lt;energy&gt; MJ&amp;#27;[0m
+    &amp;#27;[36mAnd &amp;#27;[0m&amp;#27;[36mthe protein should be &lt;protein&gt; kg&amp;#27;[0m
+
+    Examples: 
+</system-out>
+  </testcase>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="When we calculate the feeding requirements" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="Then the energy should be 26500 MJ" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="And the protein should be &quot;pro1&quot; kg" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="| 450 | 26500 | &quot;pro1&quot; |" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 450 | 26500 | &quot;pro1&quot; |" name="| 450 | 26500 | &quot;pro1&quot; |" time="0.005"/>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="Given the cow weighs 500 kg" time="0.001">
+    <skipped/>
+    <system-out>
+  Scenario Outline: feeding a suckler cow      &amp;#27;[90m# sample.feature:11&amp;#27;[0m
+    &amp;#27;[33mGiven &amp;#27;[0m&amp;#27;[33mthe cow weighs 450 kg&amp;#27;[0m
+    &amp;#27;[33mWhen &amp;#27;[0m&amp;#27;[33mwe calculate the feeding requirements&amp;#27;[0m
+    &amp;#27;[33mThen &amp;#27;[0m&amp;#27;[33mthe energy should be 26500 MJ&amp;#27;[0m
+    &amp;#27;[33mAnd &amp;#27;[0m&amp;#27;[33mthe protein should be &quot;pro1&quot; kg&amp;#27;[0m
+</system-out>
+  </testcase>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="When we calculate the feeding requirements" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="Then the energy should be 29500 MJ" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="And the protein should be &quot;vita&quot; kg" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="| 500 | 29500 | &quot;vita&quot; |" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 500 | 29500 | &quot;vita&quot; |" name="| 500 | 29500 | &quot;vita&quot; |" time="0.002"/>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="Given the cow weighs 575 kg" time="0.002">
+    <skipped/>
+    <system-out>
+  Scenario Outline: feeding a suckler cow      &amp;#27;[90m# sample.feature:12&amp;#27;[0m
+    &amp;#27;[33mGiven &amp;#27;[0m&amp;#27;[33mthe cow weighs 500 kg&amp;#27;[0m
+    &amp;#27;[33mWhen &amp;#27;[0m&amp;#27;[33mwe calculate the feeding requirements&amp;#27;[0m
+    &amp;#27;[33mThen &amp;#27;[0m&amp;#27;[33mthe energy should be 29500 MJ&amp;#27;[0m
+    &amp;#27;[33mAnd &amp;#27;[0m&amp;#27;[33mthe protein should be &quot;vita&quot; kg&amp;#27;[0m
+</system-out>
+  </testcase>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="When we calculate the feeding requirements" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="Then the energy should be 31500 MJ" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="And the protein should be &quot;carb&quot; kg" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="| 575 | 31500 | &quot;carb&quot; |" time="0.004">
+    <skipped/>
+  </testcase>
+  <testcase classname="| 575 | 31500 | &quot;carb&quot; |" name="| 575 | 31500 | &quot;carb&quot; |" time="0.004"/>
+</testsuite>
