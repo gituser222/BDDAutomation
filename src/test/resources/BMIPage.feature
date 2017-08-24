@@ -11,5 +11,5 @@ Feature: BMI feature
 
     Examples: 
       | height | weight | Category  |
-      |    180 |     66 | "Normal" |
+      |    180 |     66 | "Normal1" |
       |    160 |     80 | "Obesity" |
