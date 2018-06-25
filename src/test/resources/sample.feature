@@ -9,5 +9,5 @@ Feature: feeding a suckler cow
     Examples: 
       | weight | energy | protein |
       |    450 |  26500 | "pro1"  |
-      |    500 |  29500 | "vita"  |
+      |    600 |  29500 | "vita"  |
       |    575 |  31500 | "carb"  |
