@@ -10,4 +10,4 @@ Feature: feeding a suckler cow
       | weight | energy | protein |
       |    450 |  26500 | "pro1"  |
       |    500 |  29500 | "vita"  |
-      |    575 |  31500 | "carb"  |
+      |    675 |  31500 | "carb"  |
